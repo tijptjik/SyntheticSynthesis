@@ -1,5 +1,7 @@
 # Battlestar Galactica: The Synthetic Synthesis
 
+A surprise birthday party organised for @SZS.  @SZS has always wanted to be a Cylon, so I wrote a Space Opera role-playing adventure featuring 7 ships & 24 characters tailored to her friends. We superimposed a space map over the neighbourhood and it played out marvelously. Feel free to adapt or take any of the story or ideas for your own surprise Birthdays. Only half of us were BSG fans, but everyone came away with a memorable event. 
+
 ## Background
 It's been 40 years since the 12 colonies of mankind have heard from their progeny, the Cylons -- robotic creatures who rose up and declared war on their masters, then disappeared. In a sudden, devastating strike, the Cylons return and lay waste to the colonies. This story takes place in the days following the first Cylon strike on the human capital planet of Caprica. Cylons also no longer look like the metalic toasters they once were. They have evolved their appearances and managed to produce human-looking variants. Though there are only 12 such Cylon models, they were produced in endless numbers. As the devastation of the human home worlds is absolute, the few remaining ships that managed to get off planet are called to band together in a search of humanity's mythical 13th colony: planet Earth.
 
@@ -64,11 +66,11 @@ In the final part of the story, three people will speak out for the options Sher
 * **Tom** - Human Rights Activist - Human
 * **Wins** - Estrella Vargis - Human
 
-#### Regular Cylon
+#### Ancient Cylon
 
 Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so please be prepared to hint to Sherin throughout the narrative in subtle ways that you are indeed an ancient Cylon. This can be done by referencing that you have 'planets worth of experience' or 'wisdom beyond many civilisations', you have also brought the human form to the regular Cylons, so references to this are fair play. 
 
-#### Ancient Cylon
+#### Regular Cylon
 
 Since you are a regular Cylon, you can actually show up in other parts of the story, but you have to make sure that you either escape, or die in the process. Since we need you to be present for your scripted part.
 
@@ -338,6 +340,7 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
 1. Lights are turned off // Sirens go off // `Sherin` is ushered out of the room with the governmental clerk who first caught news of the attack, and the first five crew members `Hayley` `Ciosa` `Janice` `Lisette` `Rayla`.
 1. `Sherin` is handed the emergency protocol, informing her that the entire government has been wiped out and that she is next in line for the presidency, with control over all of the the 12 colonies. She's instructed to rendez-vous at the `Twin Pisces System` where all allied military forces are to convene. 
 1. `Sherin`'s party dock at the allied rendezvous station.
+
 #### Connecting with Survivors
 1. Humanity's Hope
 1. Rainbow Rising
@@ -346,6 +349,7 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
 1. Bermuda Void
 1. Pilgrim's Blessing
 1. Cylon Cypher
+
 #### The Synthetic Synthesis Finale
 1. Sherin decides whether Humans, Cylon or Hybrids are most deserving of survival
 1. Sherin identifies who the Humans and Cylons are in her fleet
