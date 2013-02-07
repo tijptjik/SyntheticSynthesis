@@ -3,17 +3,16 @@
 A surprise birthday party organised for @SZS.  @SZS has always wanted to be a Cylon, so I wrote a Space Opera role-playing adventure featuring 7 ships & 24 characters tailored to her friends. We superimposed a space map over the neighbourhood and it played out marvelously. Feel free to adapt or take any of the story or ideas for your own surprise Birthdays. Only half of us were BSG fans, but everyone came away with a memorable event. 
 
 ## Background
-It's been 40 years since the 12 colonies of mankind have heard from their progeny, the Cylons -- robotic creatures who rose up and declared war on their masters, then disappeared. In a sudden, devastating strike, the Cylons return and lay waste to the colonies. This story takes place in the days following the first Cylon strike on the human capital planet of Caprica. Cylons also no longer look like the metalic toasters they once were. They have evolved their appearances and managed to produce human-looking variants. Though there are only 12 such Cylon models, they were produced in endless numbers. As the devastation of the human home worlds is absolute, the few remaining ships that managed to get off planet are called to band together in a search of humanity's mythical 13th colony: planet Earth.
+It's been 40 years since the 12 colonies of mankind have heard from their progeny, the Cylons -- robotic creatures who rose up and declared war on their masters, then disappeared. In a sudden, devastating strike, the Cylons return and lay waste to the colonies. This story takes place in the days following the first Cylon strike on the human capital planet of Caprica. Cylons also no longer look like the metallic toasters they once were. They have evolved their appearances and managed to produce human-looking variants. Though there are only 12 such Cylon models, they were produced in endless numbers. As the devastation of the human home worlds is absolute, the few remaining ships that managed to get off planet are called to band together in a search of humanity's mythical 13th colony: planet Earth.
 
 ## Synopsis
+As the complete colonial government is wiped out in the attacks, Sherin, then secretary of Arts & Culture, is forced to ascend to the presidency of the 12 colonies and fight for the survival of the human race. With a small crew, Sherin sets out to a pre-assigned military rendezvous point where she learns that the entire military fleet has been annihilated. To salvage what's left of the human race she reaches out to the remaining civilian ships in the sector.
 
-As the complete colonial government is wiped out in the attacks, Sherin, then secretary of Arts & Culture, is forced to ascend to the presidency of the 12 colonies and fight for the survival of the human race. With a small crew, Sherin sets out to a pre-assigned military rendez-vous point where she learns that the entire military fleet has been annihilated. To salvage what's left of the human race she reaches out to the remaining civilian ships in the sector.
-
-Both Cylon and Human ships have jume p-drive technology, meaning that they can travel vast distances in a moment's time. Coordinating jumps is a precarious affair, as a slight miscalculation could mean jumping right into a sun. Before making her first jump, Sherin and her crew scour the Cyrannus (see locations for details) looking for survivors. This is where the bulk of the story takes place, and where she interacts with the other characters in the plot.
+Both Cylon and Human ships have jump-drive technology, meaning that they can travel vast distances in a moment's time. Coordinating jumps is a precarious affair, as a slight miscalculation could mean jumping right into a sun. Before making her first jump, Sherin and her crew scour the Cyrannus (see locations for details) looking for survivors. This is where the bulk of the story takes place, and where she interacts with the other characters in the plot.
 
 5 out of 12 humanoid Cylon are in fact ancient Cylon who travelled from the mythical 13th colony and gave the tin-headed Cylons their human form. Between the 5 of them they share the complete Synth-netic make-up which will be a vital plot device in the finale. Through-out the story, information and disinformation is released about the identity of these 5 ancient Cylon, and it will slowly be revealed that Sherin is in fact is one of them.
 
-Making sense of the information will be vital for shaping Sherin's ultimate decision where she seals the fate of all humankind. As the last ship Sherin discovers carries a Cylon technology called the 'Synthetic Synthesis', she no longer just needs to choose between humanity and Cylon but has a chance of uniting our species as one. This last ship is a Cylon science vessel carrying pacifist Cylon researchers. They have been working on the Synthetic Synthesis technology, which could theoretically allow the two species to be hybridised. As the leader of humanity, Sherin at this point is forced to take a stand on which species is most deserving of survival: the Humans, the Cylon, or in fact a synthesis of both species. 
+Making sense of the information will be vital for shaping Sherin's ultimate decision where she seals the fate of all humankind. As the last ship Sherin discovers carries a Cylon technology called the 'Synthetic Synthesis', she no longer just needs to choose between humanity and Cylon but has a chance of uniting our species as one. This last ship is a Cylon science vessel carrying pacifist Cylon researchers. They have been working on the Synthetic Synthesis technology, which could theoretically allow the two species to be hybridised. As the leader of humanity, Sherin at this point is forced to take a stand on which species is most deserving of survival: the Humans, the Cylon, or in fact a synthesis of both species.
 
 Each choice results in a different ending (see endings), with the synthesis choice having special conditions. In order for a synthesis of the two species to work, Sherin will need to separate out Cylon from Human, and explicitly reveal the identity of the 5 ancient Cylon. 
 
@@ -29,7 +28,7 @@ In the final part of the story, three people will speak out for the options Sher
 1. **Cylon Solution**
     * **Scenario**: When humans created the Cylon, they played for God and now they feel His wrath. 
     * **Condition**: Anyone can go, but if humans go, they go as Cylon slaves.
-    * **Success** : All the cylons on board ...some Cylon will narrate that the future forever is set in the repetitive predictability of the machine. Even though they may have defeated the humans, without a purpose to live for, Cylons will always be beings without a Soul. 
+    * **Success** : All the Cylons on board ...some Cylon will narrate that the future forever is set in the repetitive predictability of the machine. Even though they may have defeated the humans, without a purpose to live for, Cylons will always be beings without a Soul. 
 1. **Synthetic Synthesis**
     * **Scenario**: Following the discovery of the Cylon Science Vessel, this scenario requires a 'synthetic synthesis' meaning that our species are combined and that they will get the best of both, without the hate of either. Sherin will be tasked with dividing us up, though she'll be able to ask everyone a couple of questions before she decides who goes where. Then when the lines are drawn, and the synthetic synthesis machine starts the synthesis, One by one they will be revealing H or C cards they carry  and `Mart` will be narrating and keep track of the scores.... 
     * **Condition**:  
@@ -68,7 +67,7 @@ In the final part of the story, three people will speak out for the options Sher
 
 #### Ancient Cylon
 
-Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so please be prepared to hint to Sherin throughout the narrative in subtle ways that you are indeed an ancient Cylon. This can be done by referencing that you have 'planets worth of experience' or 'wisdom beyond many civilisations', you have also brought the human form to the regular Cylons, so references to this are fair play. 
+Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular Cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so please be prepared to hint to Sherin throughout the narrative in subtle ways that you are indeed an ancient Cylon. This can be done by referencing that you have 'planets worth of experience' or 'wisdom beyond many civilisations', you have also brought the human form to the regular Cylons, so references to this are fair play. 
 
 #### Regular Cylon
 
@@ -84,7 +83,7 @@ If only you knew.
 
 In the prelude you host the party and give a speech as described under the 'Briefing & Prelude' heading of the _Sequence of Events_ section. You join Sherin as part of the original crew of the Galactic Spheres. So when Sherin is ushered out of the room following the Nuclear Alert, you will join her together with 6 others.
 
-At the 'twin pisces' rendez-vous point, you'll inform the president that something is really fishy around there, and that you intend to find out what it is. This is where you are recast in the role of an investigative journalist. Your role is to keep the atmosphere alive in between contact with other space ships (and during if you want to add colour), by asking Sherin inconvenient questions and by volunteering inappropriate opinions about her leadership direction and anything to do with Human-Cylon relations and how the people on board this ship are treated. Just run with it! 
+At the 'twin pisces' rendezvous point, you'll inform the president that something is really fishy around there, and that you intend to find out what it is. This is where you are recast in the role of an investigative journalist. Your role is to keep the atmosphere alive in between contact with other space ships (and during if you want to add colour), by asking Sherin inconvenient questions and by volunteering inappropriate opinions about her leadership direction and anything to do with Human-Cylon relations and how the people on board this ship are treated. Just run with it! 
 
 Ciosa will be trying to implicate you as a Cylon, you will always deny it. But give Sherin sufficient reason to doubt your humanity so she'll be able to put you in the right group for the Synthetic Synthesis Finale.
 
@@ -160,7 +159,7 @@ Victim of Cylon co-conspirators, you were sentenced to five years in jail, two o
 
 You followed them on the security screens and noticed that they were collaborating with one of the facility's leading scientists. If his involvement with the 4 look-alikes wasn't suspicious enough, the scientist has had a tenure of 25 years without ageing one bit! You suspected all of them to be Cylon somehow, with the scientist being the leader of the bunch.
 
-Of course before the Cylon attack, everyone thought you were crazy for suggesting that Cylon looked like Humans, after all only 37 years ago they looked like ill-adjusted robots. To silence you, the scientist made sure that you were found guilty of espionage, and sent to the Bermuda Void. You will promise to reveal the identity of this scientist, if Sherin takes you under her wing. The cylon you are looking to expose is Chris. You'll find him having joined the Galactic Spheres under mysterious circumstances.
+Of course before the Cylon attack, everyone thought you were crazy for suggesting that Cylon looked like Humans, after all only 37 years ago they looked like ill-adjusted robots. To silence you, the scientist made sure that you were found guilty of espionage, and sent to the Bermuda Void. You will promise to reveal the identity of this scientist, if Sherin takes you under her wing. The Cylon you are looking to expose is Chris. You'll find him having joined the Galactic Spheres under mysterious circumstances.
 
 ### Sissi // Cylon // Pilgrim's Blessing // Mono-theist
 
@@ -188,7 +187,7 @@ Following your argument with Sissi, you will ask Sherin which side she thinks is
 Word has gotten around about regenerative baths in which Cylon consciousness is downloaded as soon as their physical form dies. As a professor of ethics your role it to argue for the immediate abolition of such baths as they deprive the Cylon of freedom through death.
 
 ### Rich // Human // Humanity's Hope // The Hyper Connected Mixed Media Professor  
-Where is this Cylon homeworld? And how do we preserve its native culture? How do we interact with the Cylon without imposing our own values through toxic exposure? How can we ever visit their homeworld without inoxerable changing the landscape of what once was the pristine Cylon homeworld in the days before Human tourism? These questions trouble you as the Hyper Connected Mixed Media Professor , and you'll be sure to remind the President that no interaction between our culture is without consequences.
+Where is this Cylon homeworld? And how do we preserve its native culture? How do we interact with the Cylon without imposing our own values through toxic exposure? How can we ever visit their homeworld without inexorably changing the landscape of what once was the pristine Cylon homeworld in the days before Human tourism? These questions trouble you as the Hyper Connected Mixed Media Professor , and you'll be sure to remind the President that no interaction between our culture is without consequences.
 
 ### Janakan // Cylon // Humanity's Hope // Chair of Cybernomics at Caprica University
 The visionary professor of Cybernomics you cant count your luck that the Cylon have returned! Now you can finally enact your plans for the 7th industrial revolution, by replacing all the human work force by Cylon, overriding their logic circuitry by providing them with less rewards the harder they work. This will make them incredibly obedient, and ultimately profitable.
@@ -211,25 +210,25 @@ Everyone on board will share a ultra progressive fact about life on-board the Ra
 
 As the all-knowing God of Human pleasure, Sherin will try to find out whether you are a Cylon. You can talk about your belief that only Pure Love will foster a future for both Cylon and Human kinds. As Cylon cannot have offspring through natural means, you have been sent to bond with humans of a pure and all-embracing disposition, in the hope that the two kinds will spawn a hybrid species. Despite the copious of sex you've had to go through, your efforts haven't resulted in the desired offspring, and thus perhaps you can suggest that it is time for you to join the Galactic Spheres to pursue other forms of love.
 
-Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so it's quite OK if through the conversation with Sherin she discovers that you are one of the Ancient 5. You have also brought the human form to the regular Cylons, so references to this are fair play.
+Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular Cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so it's quite OK if through the conversation with Sherin she discovers that you are one of the Ancient 5. You have also brought the human form to the regular Cylons, so references to this are fair play.
 
 ### Simon // Human // Rainbow Rising // Ernst Young
 
-Everyone on board will share a ultra progressive fact about life onboard the Rainbow Rising. When the president comes to visit your ship Lucy will ask you to share something about your life on the ship and you will tell her about this particular drug you use which allows you to _feel_ what your genes know. The drugs reveals the ancestral memories encoded in your genes and project them into your conciousness! It's completely transcedental, you cannot truly know yourself without it. 
+Everyone on board will share a ultra progressive fact about life onboard the Rainbow Rising. When the president comes to visit your ship Lucy will ask you to share something about your life on the ship and you will tell her about this particular drug you use which allows you to _feel_ what your genes know. The drugs reveals the ancestral memories encoded in your genes and project them into your conciousness! It's completely transcendental, you cannot truly know yourself without it. 
 
 ### Gabe // Ancient Cylon // Cylon Cypher // Master Syntheticist
 
 You play a very important role in delivering the information that Sherin needs to inform her final decision, so please be precise when detailing the two conditions. Your apprentice will detail the Cylon Cypher's mission, but your role is to explain exactly what the scientific reasoning behind the synthetic synthesis is, and caution that it is still in prototype phase. 
 
-When you talk about the second condition - all five ancient cylon - you will reveal that you in fact are 1 out of 5. As punishment for your pacifist teachings however your visual recordings have been put on stasis in the memory bank, so you won't be able to directly ID who the other 4 ancient Cylon are. Of course feel free to drop hints as to their identity based on character traits. 
+When you talk about the second condition - all five ancient Cylon - you will reveal that you in fact are 1 out of 5. As punishment for your pacifist teachings however your visual recordings have been put on stasis in the memory bank, so you won't be able to directly ID who the other 4 ancient Cylon are. Of course feel free to drop hints as to their identity based on character traits. 
 
-Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so please be prepared to help Sherin along a little if she's completely at a loss trying to identify the other 4 ancient Cylon. See 'Endings' to read more about what role you play in the grand scheme of things.
+Since you are one of the Ancient Cylon, there is only one of you. Unlike the regular Cylon which have unlimited copies, so you cannot show up in parts which you were not scripted to appear. You play a vital part in the final act, so please be prepared to help Sherin along a little if she's completely at a loss trying to identify the other 4 ancient Cylon. See 'Endings' to read more about what role you play in the grand scheme of things.
     
 ### Julianne // Cylon // Cylon Cypher // Synthetic Specialist 
 
-You will detail the story of your mission and how you decided that war was not the right path and that you have sheltered yourself from the wrath of the fellow cylon by using cloaking technology.
+You will detail the story of your mission and how you decided that war was not the right path and that you have sheltered yourself from the wrath of the fellow Cylon by using cloaking technology.
 
-You can say that while your master is unique (he is an ancient cylon after all) there are many more like you, and that it was only through the unpopular teachings of the master that made realise the wrongs of the Cylon war machine and break the pact with your model range.
+You can say that while your master is unique (he is an ancient Cylon after all) there are many more like you, and that it was only through the unpopular teachings of the master that made realise the wrongs of the Cylon war machine and break the pact with your model range.
 
 Since you are a regular Cylon, you can actually show up in other parts of the story, but you have to make sure that you either escape, or die in the process. Since we need you to be present for your scripted part.
 
@@ -295,20 +294,20 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
 
     When the Galactic Spheres approaches the Bermuda Void, `Kent` is the fist person to welcome them as the prison Warden. Kent introduces the President to the practices in the prison and channels his inner Cylon when referring to them as _stinking meatbags_, _hot-blooded, bad-tempered_, etc.. `Kent` will argue that the lowest forms of humanity don't deserve being handed the key to paradise, the mythical 13th colony.
 
-    Tom breaks up the discussion right after Kent is done explaining what his _Human Hunt_ copmany is for and cries foul as a Human Rights Activist. Tom first makes his case before Kent starts interupting him with counter-arguments. Tom will plee for all these essentially political prisoners to be let onto the Galactic Spheres, and it will be up to Sherin to decide what to do with the inmates.
+    Tom breaks up the discussion right after Kent is done explaining what his _Human Hunt_ company is for and cries foul as a Human Rights Activist. Tom first makes his case before Kent starts interrupting him with counter-arguments. Tom will plea for all these essentially political prisoners to be let onto the Galactic Spheres, and it will be up to Sherin to decide what to do with the inmates.
 
     While Kent & Tom argue, Erin represents the full prison population and keeps to the side-lines. Only when Sherin decides whose recommendation to go with does Erin reveal her character's reason for being there.
 
 1. #### Rainbow Rising
     A safe-haven for those escaping the stifling morality of the Colonial order. For years, Rainbow Rising devotees have followed a strict curriculum of universal love, unconditional acceptance, and spiritual connectedness. In absence of constraints, there are hundreds of men and woman aboard this ship who have indulged in insanely exotic fetishes. All in all these social experiments aren't exactly vital to the survival of the human race, if it weren't for a very special member of the community. Two decades ago, a man joined the Rainbow Rising, and has been adored by all the members since. The man's ritualistic experience and resilience are fabled, earning him the title 'The All Knowing God of Human Pleasure'. He literally never tires, which in a community of free love sure comes in handy.
 
-    Through hints of the Mother Gaya, Sherin will piece together that this untirable man is in fact one of the ancient Cylon. So whenever you talk about this man, be sure to mention his uncanny consistency of mood, strength, and behaviour. When you're around him you feel as if you're interacting with centuries worth of spiritual experience.
+    Through hints of the Mother Gaya, Sherin will piece together that this untiring man is in fact one of the ancient Cylon. So whenever you talk about this man, be sure to mention his uncanny consistency of mood, strength, and behaviour. When you're around him you feel as if you're interacting with centuries worth of spiritual experience.
 
     Sherin will come ask you to join her on her journey to the Mythical planet Earth. Half of you claim to have been there, the other half already know the way. So you will all join Sherin's party.
 
 1. #### Humanity's Hope
 
-    An Elite conference facility which regularly brings together the brightest minds of the galaxy. Following the Cylon invasion, this weekend's 'Cylons Revisted' topic has become poignantly relevant. Completely oblivious to the real world consequences of the total annihilation of the human race, the intellectuals however continue to pontificate on hyper specific aspects that have come to light following the invasion.
+    An Elite conference facility which regularly brings together the brightest minds of the galaxy. Following the Cylon invasion, this weekend's 'Cylons Revisited' topic has become poignantly relevant. Completely oblivious to the real world consequences of the total annihilation of the human race, the intellectuals however continue to pontificate on hyper specific aspects that have come to light following the invasion.
 
     Despite your alarming lack of social tact and concern about the plight of the human race, Sherin will still insist that you join her as advisor on her journey to planet Earth. You'll all gracefully oblige.
 
@@ -319,9 +318,9 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
     Modified Cylon Raider with Zero-Neutron footprint allowing it to come close to the fleet while avoiding detection.
 
 1. #### Cylon Cypher
-    A stealthy science vessel with two of the greatest Cylon minds on board. An ancient master teaching his apprentice the value of Pacifism and the promise of science. Together, they developed a technological innovation which could define the course of both Human and Cylon civilisations. The 'Synthetic Synthesis' process promises a hybrid of species. The science vessel has operated out of sight of both human and cylon eyes for the past two decades, but the attack on the colonies has forced them out of hiding. 
+    A stealthy science vessel with two of the greatest Cylon minds on board. An ancient master teaching his apprentice the value of Pacifism and the promise of science. Together, they developed a technological innovation which could define the course of both Human and Cylon civilisations. The 'Synthetic Synthesis' process promises a hybrid of species. The science vessel has operated out of sight of both human and Cylon eyes for the past two decades, but the attack on the colonies has forced them out of hiding. 
 
-    Consequently, the technology that they were developing has yet to leave the prototyping stage and has a short-coming that it cannot tell Cylon from Human, but just takes a representative sample of a group's _genetics_ or _synth-netics_ before rewriting all the subject's core DNA. It is therefore vital that before commencing the synthetic synthesis, that humans and cylon are expressly split into two groups. A second requirement for the process to be successful is for the Cylon group to contain all five ancient Cylon, cause only then will a complete picture of the Cylon synthnetic structure be transferred to the hybrid form.
+    Consequently, the technology that they were developing has yet to leave the prototyping stage and has a short-coming that it cannot tell Cylon from Human, but just takes a representative sample of a group's _genetics_ or _synth-netics_ before rewriting all the subject's core DNA. It is therefore vital that before commencing the synthetic synthesis, that humans and Cylon are expressly split into two groups. A second requirement for the process to be successful is for the Cylon group to contain all five ancient Cylon, cause only then will a complete picture of the Cylon synthnetic structure be transferred to the hybrid form.
 
     The Cylon Cypher is the last ship to be approached by the Galactic Spheres. After all other ships have been interacted with, your ship will hail the Galactic Spheres and ask for a meeting with the president. The Master will urge the president to think carefully about her options but insist that this is the correct path: The best of both species, without the hate of either.
 
@@ -338,7 +337,7 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
 1. At **21:30** `Hayley` proposes a toast to Sherin, she starts out by complimenting our Sherin, but as her speech progresses the subject steadily morphs into `Sherin`'s Character's achievements as Secretary of Arts & Culture. 
 1. `Mart` whispers into `Hayleys` ears that 5 out of 12 colonies have come under Cylon attack, and that an attack on Caprica (where our home is located) is imminent.
 1. Lights are turned off // Sirens go off // `Sherin` is ushered out of the room with the governmental clerk who first caught news of the attack, and the first five crew members `Hayley` `Ciosa` `Janice` `Lisette` `Rayla`.
-1. `Sherin` is handed the emergency protocol, informing her that the entire government has been wiped out and that she is next in line for the presidency, with control over all of the the 12 colonies. She's instructed to rendez-vous at the `Twin Pisces System` where all allied military forces are to convene. 
+1. `Sherin` is handed the emergency protocol, informing her that the entire government has been wiped out and that she is next in line for the presidency, with control over all of the the 12 colonies. She's instructed to rendezvous at the `Twin Pisces System` where all allied military forces are to convene. 
 1. `Sherin`'s party dock at the allied rendezvous station.
 
 #### Connecting with Survivors
@@ -355,7 +354,7 @@ Since you are a regular Cylon, you can actually show up in other parts of the st
 1. Sherin identifies who the Humans and Cylons are in her fleet
 1. Identies are revealed.
 1. End Scenario is effected.
-1. We all return to the flat, where we are served Ambrosia[^1] in celebration//commemoration for how events unfold.
+1. We all return to the flat, where we are served Ambrosia[^1] in celebration // commemoration for how events unfold.
 
 
 ## Locations
